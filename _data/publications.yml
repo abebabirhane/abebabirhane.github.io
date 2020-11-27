@@ -1,23 +1,34 @@
-- date: 2014-01-01
-  type: journal
+- date: 2020-10-01
+  type: preprint
+  status: unpublished
+  authors: <b>Birhane, A.</b> & Guest, O.
+  title: 'Towards decolonising computational sciences'
+  arxiv: https://arxiv.org/abs/2009.14258
+  arxiv-id: '2009.14258'
+  pdf: https://arxiv.org/pdf/2009.14258
+  server: arXiv
+  
+- date: 2020-07-24
+  type: preprint
+  status: unpublished
+  authors: <b>Birhane, A.</b> & Vinay Uday Prabhu
+  title: 'Large datasets: A pyrrhic win for computer vision?'
+  arxiv: https://arxiv.org/abs/2006.16923v2
+  arxiv-id: '2006.16923v2'
+  pdf: https://arxiv.org/pdf/2006.16923.pdf
+  server: arXiv
+  
+- date: 2020-02-07
+  type: conference proceedings
   status: published
-  authors: Cooper, R. P. & <b>Guest, O.</b>
-  title: 'Implementations are not specifications: specification, replication and experimentation in computational cognitive modeling'
-  journal: Cognitive Systems Research
-  doi: 10.1016/j.cogsys.2013.05.001
-  pdf: /doc/cooper_14.pdf
-
-- date: 2015-01-01
-  type: journal
-  status: published
-  authors: Love, B. C., Kopeć, Ł., & <b>Guest, O.</b>
-  title: 'Optimism bias in fans and sports reporters'
-  journal: PLoS ONE
-  doi: 10.1371/journal.pone.0137685
-  pdf: http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0137685&representation=PDF
-  osf: 3xrfa
-
-- date: 2016-09-01
+  authors: <b>Birhane, A.</b> & Jelle van Dijk
+  title: 'obot Rights?: Let's Talk about Human Welfare Instead'
+  journal: AIES '20: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+  doi: 10.1145/3375627.3375855
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3375627.3375855
+  
+  
+- date: 2020-02-07
   type: misc
   status: published
   authors: <b>Guest, O.</b> & Rougier, N. P.
@@ -164,15 +175,7 @@
   doi: 10.1038/s41586-020-2314-9
   github: poldrack/narps
 
-- date: 2020-10-01
-  type: preprint
-  status: unpublished
-  authors: Birhane, A. & <b>Guest, O.</b>
-  title: 'Towards decolonising computational sciences'
-  arxiv: https://arxiv.org/abs/2009.14258
-  arxiv-id: '2009.14258'
-  pdf: https://arxiv.org/pdf/2009.14258
-  server: arXiv
+
 
 - date: 2020-10-13
   type: magazine
