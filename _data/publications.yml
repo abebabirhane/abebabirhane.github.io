@@ -28,14 +28,14 @@
   pdf: https://dl.acm.org/doi/pdf/10.1145/3375627.3375855
   
   
-- date: 2020-02-07
+- date: 2017-04-07
   type: misc
   status: published
-  authors: <b>Guest, O.</b> & Rougier, N. P.
-  title: 'Dialogue: What is Computational Reproducibility?'
-  journal: IEEE CIS Newsletter on Cognitive and Developmental Systems
-  pdf: https://openlab-flowers.inria.fr/uploads/default/original/1X/65addc14bb2a6a7feaf7690865fa3708d5b0990f.pdf
-  github: oliviaguest/what-is-computational-reproducibility
+  authors: Birhane, A. 
+  title: 'Descartes was wrong: ‘a person is a person through other persons’'
+  journal: Aeon
+  pdf: https://aeon.co/ideas/descartes-was-wrong-a-person-is-a-person-through-other-persons
+ 
 
 - date: 2017-01-01
   type: journal
