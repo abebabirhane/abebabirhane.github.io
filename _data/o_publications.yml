@@ -13,3 +13,20 @@
   title: 'Fair Warning'
   journal: Real Life 
   url: https://reallifemag.com/fair-warning/
+
+- date: 2020-06-18
+  type: magazine
+  status: published
+  authors: Birhane, A. & van Dijk, J. 
+  title: 'A Misdirected Application Of AI Ethics'
+  journal: Noema 
+  url: https://www.noemamag.com/a-misdirected-application-of-ai-ethics/
+  
+
+- date: 2019-07-18
+  type: magazine
+  status: published
+  authors: Birhane, A. 
+  title: 'The Algorithmic Colonization of Africa'
+  journal: Real Life 
+  url: https://reallifemag.com/the-algorithmic-colonization-of-africa/
