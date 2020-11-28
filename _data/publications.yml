@@ -27,6 +27,34 @@
   doi: 10.1145/3375627.3375855
   pdf: https://dl.acm.org/doi/pdf/10.1145/3375627.3375855
   
+- date: 2020-07-02
+  type: journal
+  status: published
+  authors: Birhane, A. 
+  title: 'Algorithmic Colonization of Africa'
+  journal: "SCRIPTed: A Journal of Law, Technology and Society"
+  doi: 10.2966/scrip.170220.389
+  pdf: https://script-ed.org/wp-content/uploads/2020/08/birhane.pdf
   
+- date: 2019-12-16
+  type: preprint
+  status: unpublished
+  authors: <b>Birhane, A.</b> & Cummins, F.  
+  title: 'Algorithmic Injustices: Towards a Relational Ethics'
+  arxiv: https://arxiv.org/abs/1912.07376
+  arxiv-id: '1912.07376'
+  pdf: https://arxiv.org/pdf/1912.07376.pdf
+  server: arXiv
+  
+- date: 2019-12-10
+  type: journal
+  status: published
+  authors: Ruane, E., <b>A Birhane, A., </b> Ventresque, A.
+  title: 'Conversational AI: Social and Ethical Considerations'
+  journal: "AICS - 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science"
+  pdf: http://ceur-ws.org/Vol-2563/aics_12.pdf
+
+  
+
 
  
