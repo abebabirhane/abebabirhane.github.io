@@ -17,7 +17,7 @@
 - date: 2020-06-18
   type: magazine
   status: published
-  authors: Birhane, A. & van Dijk, J. 
+  authors: <b>Birhane, A.</b> & van Dijk, J. 
   title: 'A Misdirected Application Of AI Ethics'
   journal: Noema 
   url: https://www.noemamag.com/a-misdirected-application-of-ai-ethics/
@@ -30,3 +30,11 @@
   title: 'The Algorithmic Colonization of Africa'
   journal: Real Life 
   url: https://reallifemag.com/the-algorithmic-colonization-of-africa/
+
+- date: 2018-03-20
+  type: essay
+  status: published
+  authors: <b>Birhane, A.</b> & Grayson, S. 
+  title: "Science: Whose Truth ? Whose Facts?"
+  journal: Essay 
+  url: https://marymulvihillaward.ie/award/2018-winners/
