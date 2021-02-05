@@ -71,6 +71,14 @@
   journal: Real Life 
   url: https://reallifemag.com/fair-warning/
 
+- date: 2020-08-12
+  type: magazine
+  status: published
+  authors: <b>Birhane, A.
+  title: 'An antidote to the ortodoxy (Data Feminism book review)'
+  journal: The Psychologist 
+  url: https://thepsychologist.bps.org.uk/antidote-orthodoxy
+  
 - date: 2020-06-18
   type: magazine
   status: published
@@ -78,7 +86,6 @@
   title: 'A Misdirected Application Of AI Ethics'
   journal: Noema 
   url: https://www.noemamag.com/a-misdirected-application-of-ai-ethics/
-  
 
 - date: 2019-07-18
   type: magazine
