@@ -1,16 +1,17 @@
 - date: 2020-10-01
   type: preprint
-  status: unpublished
+  status: published
   authors: <b>Birhane, A.</b> & Guest, O.
   title: 'Towards decolonising computational sciences'
   arxiv: https://arxiv.org/abs/2009.14258
   arxiv-id: '2009.14258'
+  doi: 10.7146/kkf.v29i2.124899
   pdf: https://arxiv.org/pdf/2009.14258
   server: arXiv
   
 - date: 2020-07-24
   type: preprint
-  status: unpublished
+  status: published
   authors: <b>Birhane, A.</b> & Uday Prabhu, V. 
   title: 'Large datasets: A pyrrhic win for computer vision?'
   arxiv: https://arxiv.org/abs/2006.16923v2
