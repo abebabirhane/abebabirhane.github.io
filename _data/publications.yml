@@ -9,6 +9,15 @@
   pdf: https://arxiv.org/pdf/2009.14258
   server: arXiv
   
+- date: 2021-02-12
+  type: journal
+  status: published
+  authors: Birhane, A.
+  title: 'Algorithmic injustice: a relational ethics approach'
+  journal: Patterns
+  doi: 10.1016/j.patter.2021.100205
+  pdf: https://reader.elsevier.com/reader/sd/pii/S2666389921000155?token=0C622191A0D2725B05493E05D022CB7F7590630D0E928BF180036A1DD394A40B7F62B21752720C36DE7C9BF01AC0D5B4
+  
 - date: 2020-07-24
   type: preprint
   status: published
