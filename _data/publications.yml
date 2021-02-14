@@ -1,13 +1,11 @@
-- date: 2020-10-01
-  type: preprint
+- date: 2021-02-09
+  type: Journal
   status: published
   authors: <b>Birhane, A.</b> & Guest, O.
   title: 'Towards decolonising computational sciences'
-  arxiv: https://arxiv.org/abs/2009.14258
-  arxiv-id: '2009.14258'
+  journal: Women, Gender & Research
   doi: 10.7146/kkf.v29i2.124899
-  pdf: https://arxiv.org/pdf/2009.14258
-  server: arXiv
+  pdf: https://tidsskrift.dk/KKF/article/view/124899/171721
   
 - date: 2021-02-12
   type: journal
@@ -19,14 +17,12 @@
   pdf: https://reader.elsevier.com/reader/sd/pii/S2666389921000155?token=0C622191A0D2725B05493E05D022CB7F7590630D0E928BF180036A1DD394A40B7F62B21752720C36DE7C9BF01AC0D5B4
   
 - date: 2020-07-24
-  type: preprint
+  type: journal
   status: published
   authors: <b>Birhane, A.</b> & Uday Prabhu, V. 
   title: 'Large datasets: A pyrrhic win for computer vision?'
-  arxiv: https://arxiv.org/abs/2006.16923v2
-  arxiv-id: '2006.16923'
+  journal: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
   pdf: https://arxiv.org/pdf/2006.16923.pdf
-  server: arXiv
 
 - date: 2020-02-07
   type: journal
