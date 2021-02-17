@@ -1,11 +1,13 @@
 - date: 2021-02-09
-  type: Journal
-  status: published
+  type: priprint
+  status: unpublished
   authors: <b>Birhane, A.</b> & Guest, O.
   title: 'Towards decolonising computational sciences'
   journal: Women, Gender & Research
-  doi: 10.7146/kkf.v29i2.124899
-  pdf: https://tidsskrift.dk/KKF/article/view/124899/171721
+  arxiv: https://arxiv.org/abs/2009.14258
+  arxiv-id: '2009.14258'
+  pdf: https://arxiv.org/pdf/2009.14258
+  server: arXiv
   
 - date: 2021-02-12
   type: journal
