@@ -19,7 +19,7 @@
   pdf: https://reader.elsevier.com/reader/sd/pii/S2666389921000155?token=0C622191A0D2725B05493E05D022CB7F7590630D0E928BF180036A1DD394A40B7F62B21752720C36DE7C9BF01AC0D5B4
   
 - date: 2021-01-05
-  type: journal
+  type: priprint
   status: unpublished
   authors: <b>Birhane, A.</b> & Uday Prabhu, V. 
   title: 'Large datasets: A pyrrhic win for computer vision?'
