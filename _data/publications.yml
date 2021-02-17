@@ -20,11 +20,14 @@
   
 - date: 2021-01-05
   type: journal
-  status: published
+  status: unpublished
   authors: <b>Birhane, A.</b> & Uday Prabhu, V. 
   title: 'Large datasets: A pyrrhic win for computer vision?'
   journal: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
+  arxiv: https://arxiv.org/abs/2006.16923
+  arxiv-id: '006.16923'
   pdf: https://arxiv.org/pdf/2006.16923.pdf
+  server: arXiv
 
 - date: 2020-02-07
   type: journal
