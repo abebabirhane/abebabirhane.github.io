@@ -1,0 +1,6 @@
+{% assign press = site.data.press | sort:"date" | reverse %}
+<ul class="item">
+  {% for pub in include.press %}
+  <li class="item"><a href="{{ press.url }}"><span class="title">{{ press.title }}</span></a>, {{ press.venue }}, {{ press.date }}</li>
+  {% endfor %}
+</ul>
