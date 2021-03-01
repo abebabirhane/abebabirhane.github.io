@@ -1,0 +1,7 @@
+{% assign talks = site.data.talks | sort:"date" | reverse %}
+
+<ul class="item">
+  {% for t in talks %}
+  <li class="item"><a href="{{ t.url }}"><span class="title">{{ t.title }}</span></a>, {{ t.venue }}, {{ t.date }}</li>
+  {% endfor %}
+</ul>
