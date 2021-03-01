@@ -2,7 +2,7 @@
   title: 'The battle for ethical AI at the world’s biggest machine-learning conference'
   url: 'https://www.nature.com/articles/d41586-020-00160-y'
   venue: Nature
-
+  
 - date: 2020-07-13
   title: '80m images used to train AI pulled after researchers find string of racist terms'
   url: 'https://www.siliconrepublic.com/machines/mit-database-racist-misogynist-discovery-abeba-birhane'
@@ -17,16 +17,16 @@
   title: 'How the rise of ‘digital colonialism’ in the age of AI threatens Africa’s prosperity'
   url: 'https://www.siliconrepublic.com/machines/abeba-birhane-ucd-digital-colonialism'
   venue: Silicon Republic
- 
+  
 - date: 2020-11-12
   title: 'Bright sparks of STEM: 19 influencers you need to know about'
   url: 'https://www.siliconrepublic.com/people/stem-influencers-science-week-2020'
   venue: Silicon Republic
   
 - date: 2020-07-14
-  title: ''Contaminated' AI databases are taken down after UCD work'
+  title: '''Contaminated' AI databases are taken down after UCD work''
   url: 'https://www.independent.ie/business/irish/contaminated-ai-databases-are-taken-down-after-ucd-work-39365275.html'
-  venue: Irish Independent 
+  venue: Irish Independent
   
 - date: 2020-01-01
   title: 'MIT takes down 80 Million Tiny Images data set due to racist and offensive content'
@@ -42,6 +42,3 @@
   title: 'Getting to the heart of machine learning and complex humans'
   url: 'https://www.irishtimes.com/news/science/getting-to-the-heart-of-machine-learning-and-complex-humans-1.4330238'
   venue: The Irish Times
-
-  
-  
