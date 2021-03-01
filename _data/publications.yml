@@ -86,7 +86,7 @@
 - date: 2020-08-12
   type: magazine
   status: published
-  authors: <b>Birhane, A.
+  authors: Birhane, A.
   title: 'An antidote to the orthodoxy (Data Feminism book review)'
   journal: The Psychologist 
   url: https://thepsychologist.bps.org.uk/antidote-orthodoxy
@@ -123,4 +123,14 @@
   journal: UCLA 
   url: https://escholarship.org/uc/item/8q15786s#main
 
+- date: 2021-03-02
+  type: priprint
+  status: unpublished
+  authors: Rediet Abebe, Kehinde Aruleba, <b>Birhane, A.</b>, Sara Kingsley, George Obaido, Sekou L. Remy, Swathi Sadagopan
+  title: 'Narratives and Counternarratives on Data Sharing in Africa'
+  journal: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+  arxiv: https://arxiv.org/abs/2009.14258
+  arxiv-id: '2009.14258'
+  pdf: https://arxiv.org/pdf/2009.14258
+  server: arXiv
  
