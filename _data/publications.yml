@@ -124,13 +124,11 @@
   url: https://escholarship.org/uc/item/8q15786s#main
 
 - date: 2021-03-02
-  type: priprint
+  type: journal
   status: unpublished
   authors: Rediet Abebe, Kehinde Aruleba, <b>Birhane, A.</b>, Sara Kingsley, George Obaido, Sekou L. Remy, Swathi Sadagopan
   title: 'Narratives and Counternarratives on Data Sharing in Africa'
   journal: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
-  arxiv: https://arxiv.org/abs/2009.14258
-  arxiv-id: '2009.14258'
-  pdf: https://arxiv.org/pdf/2009.14258
-  server: arXiv
+  doi: 10.1145/3442188.3445897
+ 
  
