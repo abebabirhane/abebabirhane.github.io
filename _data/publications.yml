@@ -139,6 +139,14 @@
   journal: Artificial Life
   doi: 10.1162/artl_a_00336
 
- 
+- date: 2021-06-30
+  type: preprint
+  status: unpublished
+  authors: <b>Birhane, A.</b> & Kalluri, P. & Card, D. & Agnew, W. & Dotan, R. & Bao, M. 
+  title: 'The Values Encoded in Machine Learning Research'
+  arxiv: https://arxiv.org/abs/2106.15590
+  arxiv-id: '2106.15590'
+  pdf: https://arxiv.org/abs/2106.15590
+  server: arXiv
  
  
