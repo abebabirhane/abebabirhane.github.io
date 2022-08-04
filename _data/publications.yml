@@ -1,258 +1,384 @@
-- date: 2014-01-01
-  type: journal
-  status: published
-  authors: Cooper, R. P. & <b>Guest, O.</b>
-  title: 'Implementations are not specifications: specification, replication and experimentation in computational cognitive modeling'
-  journal: Cognitive Systems Research
-  doi: 10.1016/j.cogsys.2013.05.001
-  pdf: /doc/cooper_14.pdf
-
-- date: 2016-06-13
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b>
-  title: 'Crisis in What Exactly?'
-  journal: The Winnower
-  doi: 10.15200/winn.146590.01538
-  pdf: https://winnower-production.s3.amazonaws.com/papers/4825/v2/pdf/4825-crisis-in-what-exactly.pdf
-
-- date: 2015-01-01
-  type: journal
-  status: published
-  authors: Love, B. C., Kopeć, Ł., & <b>Guest, O.</b>
-  title: 'Optimism bias in fans and sports reporters'
-  journal: PLoS ONE
-  doi: 10.1371/journal.pone.0137685
-  pdf: http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0137685&representation=PDF
-  osf: 3xrfa
-
-- date: 2016-09-01
-  type: misc
-  status: published
-  authors: <b>Guest, O.</b> & Rougier, N. P.
-  title: 'Dialogue: What is Computational Reproducibility?'
-  journal: IEEE CIS Newsletter on Cognitive and Developmental Systems
-  pdf: https://openlab-flowers.inria.fr/uploads/default/original/1X/65addc14bb2a6a7feaf7690865fa3708d5b0990f.pdf
-  github: oliviaguest/what-is-computational-reproducibility
-
-- date: 2017-01-01
-  type: journal
-  status: published
-  authors:  <b>Guest, O.</b> & Love, B. C.
-  title: 'What the success of brain imaging implies about the neural code'
-  journal: eLife
-  doi: '10.7554/eLife.21397'
-  pdf: 'https://elifesciences.org/content/6/e21397-download.pdf'
-  link: https://elifesciences.org/content/6/e21397
-  biorxiv: https://www.biorxiv.org/content/early/2016/09/09/071076
-  comments: https://www.biorxiv.org/content/early/2016/08/24/071076#comment-2858281853
-  osf: v8baz
-  github: oliviaguest/brain-imaging-and-the-neural-code
-  figshare: 'articles/What_the_Success_of_Brain_Imaging_Implies_about_the_Neural_Code/4252022'
-
-- date: 2016-09-09
-  type: preprint
-  status: published
-  authors:  <b>Guest, O.</b> & Love, B. C.
-  title: 'What the success of brain imaging implies about the neural code'
-  server: bioRxiv
-  doi: '10.1101/071076'
-  biorxiv: https://www.biorxiv.org/content/early/2016/09/09/071076
-  comments: https://www.biorxiv.org/content/early/2016/08/24/071076#comment-2858281853
-  osf: v8baz
-  github: oliviaguest/brain-imaging-and-the-neural-code
-  figshare: 'articles/What_the_Success_of_Brain_Imaging_Implies_about_the_Neural_Code/4252022'
-
-- date: 2017-12-18
-  type: journal
-  status: published
-  authors: Rougier, N. P. et al.
-  title: 'Sustainable computational science: the ReScience initiative'
-  journal: PeerJ Computer Science
-  doi: 10.7717/peerj-cs.142
-  pdf: https://peerj.com/articles/cs-142.pdf
-  link: https://peerj.com/articles/cs-142/
-  arxiv: https://arxiv.org/abs/1707.04393
-  github: ReScience/ReScience-article-2
-
-- date: 2017-12-18
-  type: preprint
-  status: published
-  authors: Rougier, N. P. et al.
-  title: 'Sustainable computational science: the ReScience initiative'
-  server: arXiv
-  arxiv-id: 1707.04393
-  link: https://arxiv.org/abs/1707.04393
-  arxiv: https://arxiv.org/abs/1707.04393
-  github: ReScience/ReScience-article-2
-
-- date: 2019-05-04
+- title: >
+    Advancing Data Justice Research and Practice: An Integrated Literature Review
+  date: 2022-04-22
   type: preprint
   status: unpublished
-  authors: <b>Guest, O.</b> & Love, B. C.
-  title: 'Levels of representation in a deep learning model of categorization'
-  biorxiv: https://www.biorxiv.org/content/10.1101/626374v1
-  doi: '10.1101/626374'
-  server: bioRxiv
-  osf: jxavn
-  github: oliviaguest/levels-of-representation-in-a-deep-learning-model-of-categorization
-  pdf: https://www.biorxiv.org/content/10.1101/626374v1.full.pdf
+  authors: D Leslie, M Katell, M Aitken, J Singh, M Briggs, R Powell, C Rincón, T Chengeta, <b>A Birhane</b>, A Perini, S Jayadeva, A Mazumder
+  journal: 
+  arxiv: https://arxiv.org/abs/2204.03090
+  arxiv_id: 2204.0309
+  pdf: https://arxiv.org/pdf/2204.03090
+  server: arxiv
+  doi: 
+  data_uri: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073376
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073376
 
-- date: 2019-08-13
+- title: Algorithmic colonization of Africa
+  date: 2020-08-01
   type: journal
   status: published
-  journal: Journal of Computational Social Science
-  authors: <b>Guest, O.</b>, Kanayet, F. J., & Love, B. C.
-  title: 'Gerrymandering and computational redistricting'
-  arxiv: https://arxiv.org/abs/1711.04640
-  osf: 5fepu
-  doi:  10.1007/s42001-019-00053-9
-  pdf: https://link.springer.com/content/pdf/10.1007%2Fs42001-019-00053-9.pdf
-  github: oliviaguest/redistrict
-  figshare: 'articles/Gerrymandering_and_Computational_Redistricting/5605387'
-  website: http://redistrict.science
-  video: https://www.youtube.com/watch?v=UDqLJovk9ek
+  authors: <b>A Birhane</b>
+  journal: SCRIPTed- A Journal of Law, Technology and Society
+  arxiv: 
+  arxiv_id: 
+  pdf: https://pdfs.semanticscholar.org/6043/1fe2d7b410ffd80713d99c0b10900cc85f3d.pdf
+  server: 
+  doi: 10.2966/scrip.170220.389,
+  data_uri: https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/scripted17&section=21
+  url: https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/scripted17&section=21
+ 
+- title: >
+    Algorithmic injustice: a relational ethics approach
+  date: 2021-12-20
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>
+  journal:  Patterns
+  arxiv: 
+  arxiv_id: 
+  pdf: https://www.sciencedirect.com/science/article/pii/S2666389921000155
+  server: 
+  doi: 
+  data_uri: https://www.sciencedirect.com/science/article/pii/S2666389921000155
+  url: https://www.sciencedirect.com/science/article/pii/S2666389921000155
 
-- date: 2017-11-13
+- title: >
+    Algorithmic injustices: Towards a relational ethics
+  date: 2021-12-02
   type: preprint
-  status: published
-  authors: <b>Guest, O.</b>, Kanayet, F. J., & Love, B. C.
-  title: 'Gerrymandering and computational redistricting'
-  arxiv: https://arxiv.org/abs/1711.04640
-  arxiv-id: '1711.04640'
-  osf: 5fepu
-  server: arXiv
-  pdf: https://link.springer.com/content/pdf/10.1007%2Fs42001-019-00053-9.pdf
-  github: oliviaguest/redistrict
-  figshare: 'articles/Gerrymandering_and_Computational_Redistricting/5605387'
-  website: http://redistrict.science
+  status: unpublished
+  authors: <b>A Birhane</b>, F Cummins
+  journal: 
+  arxiv: https://arxiv.org/abs/1912.07376
+  arxiv_id: 1912.07376
+  pdf: https://arxiv.org/pdf/1912.07376
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
 
-- date: 2019-11-15
+- title: Auditing saliency cropping algorithms
+  date: 2022-01-02
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, VU Prabhu, J Whaley
+  journal: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 4051-4059
+  arxiv: 
+  arxiv_id: 
+  pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Birhane_Auditing_Saliency_Cropping_Algorithms_WACV_2022_paper.pdf
+  server: 
+  doi: 
+  data_uri: https://openaccess.thecvf.com/content/WACV2022/html/Birhane_Auditing_Saliency_Cropping_Algorithms_WACV_2022_paper.html
+  url: https://openaccess.thecvf.com/content/WACV2022/html/Birhane_Auditing_Saliency_Cropping_Algorithms_WACV_2022_paper.html
+
+
+- title: >
+    Automating Ambiguity: Challenges and Pitfalls of Artificial Intelligence
+  date: 2022-06-08
   type: preprint
-  status: published
-  authors: Botvinik-Nezer, R. et al.
-  title: 'Variability in the analysis of a single neuroimaging dataset by many teams'
-  bioRxiv: https://www.biorxiv.org/content/10.1101/843193v1
-  server: bioRxiv
-  pdf: https://www.biorxiv.org/content/biorxiv/early/2019/11/15/843193.full-text.pdf
-  website: http://narps.info
-  doi: 10.1101/843193
-  github: poldrack/narps
+  status: unpublished
+  authors: <b>A Birhane</b>
+  journal: 
+  arxiv: https://arxiv.org/abs/2206.04179
+  arxiv_id: 2206.04179
+  pdf: https://arxiv.org/pdf/2206.04179
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
 
-- date: 2020-07-01
+ 
+
+- title: >
+    Conversational AI: Social and Ethical Considerations.
+  date: 2019-10-12
   type: journal
   status: published
-  authors: <b>Guest, O.</b>, Caso, A., & Cooper, R. P.
-  title: 'On Simulating Neural Damage in Connectionist Networks'
-  doi: 10.1007/s42113-020-00081-z
-  pdf: https://link.springer.com/content/pdf/10.1007/s42113-020-00081-z.pdf
-  journal: Computational Brain & Behavior
-  github: oliviaguest/simulating-damage-in-networks
+  authors: E Ruane, <b>A Birhane</b>, A Ventresque
+  journal:  AICS - 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science
+  arxiv: 
+  arxiv_id: 
+  pdf: http://ceur-ws.org/Vol-2563/aics_12.pdf
+  server: 
+  doi: 
+  data_uri: http://ceur-ws.org/Vol-2563/aics_12.pdf
+  url: http://ceur-ws.org/Vol-2563/aics_12.pdf
 
-- date: 2020-05-20
+- title: >
+    Data Justice Stories: A Repository of Case Studies
+  date: 2022-06-06
+  type: preprint
+  status: unpublished
+  authors: D Leslie, M Briggs, A Perini, S Jayadeva, C Rincón, N Raval, <b>A Birhane</b>, R Powell, M Katell, M Aitken
+  journal: 
+  arxiv: https://arxiv.org/abs/2204.03100
+  arxiv_id: 2204.031
+  pdf: https://arxiv.org/pdf/2204.03100
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
+
+- title: Debunking Robot Rights Metaphysically, Ethically, and Legally
+  date: 2021-08-01
   type: journal
   status: published
-  authors: Botvinik-Nezer, R. et al.
-  title: 'Variability in the analysis of a single neuroimaging dataset by many teams'
-  bioRxiv: https://www.biorxiv.org/content/10.1101/843193v1
-  journal: Nature
-  pdf: https://www.nature.com/articles/s41586-020-2314-9.pdf
-  website: http://narps.info
-  doi: 10.1038/s41586-020-2314-9
-  github: poldrack/narps
+  authors: <b>A Birhane</b>, J van Dijk, F Pasquale
+  journal:  Conference2nd Philosophy of Human Technology Relations Conference
+  arxiv: 
+  arxiv_id: 
+  pdf: https://werobot2021.com/wp-content/uploads/2021/08/Birhane_et_al_Debunking_Robot_Rights_Metaphysically__Ethically_and_Legally_ConfDraft.pdf
+  server: 
+  doi: 
+  data_uri: https://werobot2021.com/wp-content/uploads/2021/08/Birhane_et_al_Debunking_Robot_Rights_Metaphysically__Ethically_and_Legally_ConfDraft.pdf
+  url: https://werobot2021.com/wp-content/uploads/2021/08/Birhane_et_al_Debunking_Robot_Rights_Metaphysically__Ethically_and_Legally_ConfDraft.pdf
 
-- date: 2020-10-13
+- title: >
+    Descartes was wrong:'a person is a person through other persons'
+  date:  2017-04-07
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>
+  journal:  Aeon
+  arxiv: 
+  arxiv_id: 
+  pdf: https://web.ics.purdue.edu/~drkelly/AeonMagBirhaneDescartesWasWrongPersonsAreSocial2017.pdf,
+  server: 
+  doi: 
+  data_uri: https://web.ics.purdue.edu/~drkelly/AeonMagBirhaneDescartesWasWrongPersonsAreSocial2017.pdf,
+  url: https://web.ics.purdue.edu/~drkelly/AeonMagBirhaneDescartesWasWrongPersonsAreSocial2017.pdf
+
+- title: Handling and Presenting Harmful Text
+  date: 2022-04-29
+  type: preprint
+  status: unpublished
+  authors: L Derczynski, HR Kirk, <b>A Birhane</b>, B Vidgen
+  journal: 
+  arxiv: https://arxiv.org/abs/2204.14256
+  arxiv_id: 2204.14256
+  pdf: https://arxiv.org/pdf/2204.14256
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
+
+
+- title: >
+    Illusory Correlations: An Investigation in a Social Media Setting
+  date: 2016-09-01
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, R Fitzpatrick, C Kavanagh, J Roger
+  journal:  AICS 
+  arxiv: 
+  arxiv_id: 
+  pdf: http://ceur-ws.org/Vol-1751/AICS_2016_paper_14.pdf
+  server: 
+  doi: 
+  data_uri: http://ceur-ws.org/Vol-1751/AICS_2016_paper_14.pdf
+  url: http://ceur-ws.org/Vol-1751/AICS_2016_paper_14.pdf
+ 
+
+- title: >
+    Large image datasets: A pyrrhic win for computer vision?
+  date: 2021-06-14
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, VU Prabhu
+  journal: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV)
+  arxiv: https://arxiv.org/abs/2006.16923
+  arxiv_id: 2006.16923
+  pdf: 
+  server: 
+  doi: 
+  data_uri: https://ieeexplore.ieee.org/abstract/document/9423393/
+  url: https://ieeexplore.ieee.org/abstract/document/9423393/
+
+- title: >
+    Multimodal datasets: misogyny, pornography, and malignant stereotypes
+  date: 2021-10-05
+  type: preprint
+  status: unpublished
+  authors: <b>A Birhane</b>, VU Prabhu, E Kahembwe
+  journal: 
+  arxiv: https://arxiv.org/abs/2110.01963
+  arxiv_id: 2110.01963
+  pdf: https://arxiv.org/pdf/2110.01963
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
+
+- title: Narratives and counternarratives on data sharing in Africa
+  date: 2021-03-01
+  type: journal
+  status: published
+  authors: R Abebe, K Aruleba, <b>A Birhane</b>, S Kingsley
+  journal: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+  arxiv: 
+  arxiv_id: 
+  pdf: https://arxiv.org/pdf/2103.01168
+  server: 
+  doi: https://dl.acm.org/doi/abs/10.1145/3442188.3445897
+  data_uri: 
+  url: 
+
+
+- title: Robot rights? Let's talk about human welfare instead
+  date: 2020-02-07
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, J van Dijk
+  journal: >
+    AIES '20: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+  arxiv: 
+  arxiv_id: 
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3375627.3375855
+  server: 
+  doi: https://dl.acm.org/doi/abs/10.1145/3375627.3375855
+  data_uri: 
+  url: 
+
+- title: >
+    Science: Whose Truth? Whose Facts?
+  date: 2018-03-20
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, S Grayson
+  journal: Mary Mulvihill Award
+  arxiv: 
+  arxiv_id: 
+  pdf: https://marymulvihillaward.ie/wp/wp-content/uploads/2018/05/Siobhan-Grayson-Abeba-Birhane-UCD-Science-Whose-Algorithms-Whose-Data.pdf
+  server: 
+  doi: 
+  data_uri: https://marymulvihillaward.ie/wp/wp-content/uploads/2018/05/Siobhan-Grayson-Abeba-Birhane-UCD-Science-Whose-Algorithms-Whose-Data.pdf
+  url: https://marymulvihillaward.ie/wp/wp-content/uploads/2018/05/Siobhan-Grayson-Abeba-Birhane-UCD-Science-Whose-Algorithms-Whose-Data.pdf
+
+- title: Taxonomy of Risks posed by Language Models
+  date: 2022-06-20
+  type: journal
+  status: published
+  authors: L Weidinger, J Mellor, M Rauh, C Griffin, J Uesato, PS Huang, M Cheng, M Glaese, B Balle, A Kasirzadeh, Z Kenton, S Brown, W Hawkins, T Stepleton, C Biles,<b> A Birhane</b>, J Haas, L Rimell, LA Hendricks, W Isaac, S Legassick, G Irving, I Gabriel
+  journal: >
+     FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency
+  arxiv: 
+  arxiv_id: 
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3531146.3533088
+  server: 
+  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533088
+  data_uri: 
+  url: 
+
+- title: The forgotten margins of AI ethics
+  date: 2022-06-21
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, E Ruane, T Laurent, MS. Brown, J Flowers, A Ventresque, CL Dancy  
+  journal: >
+     FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency
+  arxiv: 
+  arxiv_id: 
+  pdf: https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533157
+  server: 
+  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533157
+  data_uri: 
+  url: 
+
+- title: >
+    The games we play: critical complexity improves machine learning
+  date: 2022-05-18
+  type: preprint
+  status: unpublished
+  authors: <b>A Birhane</b>, DJT Sumpter
+  journal: 
+  arxiv: https://arxiv.org/abs/2205.08922
+  arxiv_id: 2205.08922
+  pdf: https://arxiv.org/pdf/2205.08922
+  server: arxiv
+  doi: 
+  data_uri: 
+  url: 
+
+- title: The impossibility of automating ambiguity
+  date: 2021-06-11
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>
+  journal:  Artificial Life
+  arxiv: 
+  arxiv_id: 
+  pdf: https://csl.ucd.ie/wp-content/uploads/2022/07/Automating_ALife.pdf
+  server: 
+  doi: https://doi.org/10.1162/artl_a_00336
+  data_uri: https://direct.mit.edu/artl/article-abstract/27/1/44/101872
+  url: https://direct.mit.edu/artl/article-abstract/27/1/44/101872
+
+- title: The values encoded in machine learning research
+  date: 2022-06-21
+  type: journal
+  status: published
+  authors: <b>A Birhane</b>, P Kalluri, D Card, W Agnew, R Dotan, M Bao
+  journal: 2022 ACM Conference on Fairness, Accountability, and Transparency
+  arxiv: https://arxiv.org/abs/2106.15590
+  arxiv_id: 2106.1559
+  pdf: https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533083
+  server: 
+  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
+  data_uri: 
+  url: 
+  
+- title: Towards decolonising computational sciences
+  date: 2021-02-09
+  type: preprint
+  status: unpublished
+  authors: <b>A Birhane</b>, O Guest
+  journal: Women, Gender & Research
+  arxiv: https://arxiv.org/abs/2009.14258
+  arxiv_id: 2009.14258
+  pdf: https://arxiv.org/pdf/2009.14258
+  server: arxiv
+  doi: https://tidsskrift.dk/KKF/article/view/124899
+  data_uri: https://tidsskrift.dk/KKF/article/view/124899
+  url: https://tidsskrift.dk/KKF/article/view/124899
+
+
+- date: 2020-02-24
   type: magazine
   status: published
-  authors: Whitaker, K. J. & <b>Guest, O.</b>
-  title: "#bropenscience is broken science"
-  url: https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science
-  pdf: https://thepsychologist.bps.org.uk/getfile/10906
-  journal: The Psychologist
-  zenodo: https://doi.org/10.5281/zenodo.4099011
+  authors: <b>Birhane, A.</b>
+  title: 'Fair Warning'
+  journal: Real Life 
+  url: https://reallifemag.com/fair-warning/
 
-- date: 2020-10-21
-  type: journal
+- date: 2020-08-12
+  type: magazine
   status: published
-  authors: Bobadilla Suarez, S., <b>Guest, O.</b>, & Love, B. C.
-  title: 'Subjective value and decision entropy are jointly encoded by aligned gradients across the human brain'
-  bioRxiv: https://doi.org/10.1101/2020.02.18.954362
-  server: bioRxiv
-  journal: Communications Biology
-  pdf: https://www.nature.com/articles/s42003-020-01315-3.pdf
-  doi: 10.1038/s42003-020-01315-3
-
-- date: 2021-01-01
-  type: journal
+  authors: <b>Birhane, A.</b>
+  title: 'An antidote to the orthodoxy (Data Feminism book review)'
+  journal: The Psychologist 
+  url: https://thepsychologist.bps.org.uk/antidote-
+  
+- date: 2020-06-18
+  type: magazine
   status: published
-  authors:  Barlas, P., Kyriakou, K., <b>Guest, O.</b>, Kleanthous, S., & Otterbacher, J.
-  title: 'To "See" is to Stereotype: Image Tagging Algorithms, Gender Recognition, and the Accuracy-Fairness Trade-off'
-  pdf: /doc/barlas_et_al_21.pdf
-  journal: Proceedings of the ACM on Human-Computer Interaction
-  doi: 10.1145/3432931
+  authors: <b>Birhane, A.</b> & van Dijk, J. 
+  title: "A Misdirected Application Of AI Ethics"
+  journal: Noema 
+  url: https://www.noemamag.com/a-misdirected-application-of-ai-ethics/
 
-- date: 2021-01-22
-  type: journal
+- date: 2019-07-18
+  type: magazine
   status: published
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: 'How Computational Modeling Can Force Theory Building in Psychological Science'
-  PsyArXiv: https://psyarxiv.com/rybh9/
-  server: PsyArXiv
-  journal: Perspectives on Psychological Science
-  pdf: /doc/guest_martin_21.pdf
-  doi: 10.1177/1745691620970585
-  video: https://www.youtube.com/watch?v=_WV7EFvFAB8
-  figshare: 'articles/How_computational_modeling_can_force_theory_building_in_psychological_science/12600815'
+  authors: <b>Birhane, A.</b> 
+  title: 'The Algorithmic Colonization of Africa'
+  journal: Real Life 
+  url: https://reallifemag.com/the-algorithmic-colonization-of-africa/
 
-- date: 2021-02-09
-  type: journal
+- date: 2019-08-20
+  type: misc
   status: published
-  authors: Birhane, A. & <b>Guest, O.</b>
-  title: 'Towards Decolonising Computational Sciences'
-  arxiv: https://arxiv.org/abs/2009.14258
-  arxiv-id: '2009.14258'
-  journal: 'Women, Gender & Research'
-  doi: 10.7146/kkf.v29i2.124899
-  pdf: https://arxiv.org/pdf/2009.14258
-  server: arXiv
+  authors: Newman, S., <b>Birhane, A.,</b> Zajko, M., Osoba, O., Prunkl, C., Lima, G., Bowen, J., Sutton, R., & Adams, C.
+  title: "AI and Agency"
+  journal: UCLA 
+  url: https://escholarship.org/uc/item/8q15786s#main
 
-- date: 2021-03-24
-  type: journal
-  status: published
-  authors: Levitis, E. et al.
-  title: 'Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective'
-  doi: 10.1093/gigascience/giab051
-  PsyArXiv: https://psyarxiv.com/vj5tu/
-  pdf: https://academic.oup.com/gigascience/article-pdf/10/8/giab051/39810945/giab051.pdf
-  journal: Gigascience
-  server: PsyArXiv
-
-- date: 2021-10-05
-  type: preprint
-  status: unpublished
-  authors: Forbes, S. H., Aneja, P., & <b>Guest, O.</b>
-  title: 'The Myth of Normative Development'
-  doi: 10.31234/osf.io/ajynp
-  PsyArXiv: https://psyarxiv.com/ajynp
-  pdf: https://psyarxiv.com/ajynp/download
-  server: PsyArXiv
-
-- date: 2021-10-06
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: 'On logical inference over brains, behaviour, and artificial neural networks'
-  doi: 10.31234/osf.io/tbmcg
-  PsyArXiv: https://psyarxiv.com/tbmcg
-  pdf: https://psyarxiv.com/tbmcg/download
-  server: PsyArXiv
-
-- date: 2022-02-17
-  type: preprint
-  status: unpublished
-  authors: Spanton, R. W. & <b>Guest, O.</b>
-  title: 'Measuring Trustworthiness or Automating Physiognomy? A Comment on Safra, Chevallier, Grèzes, and Baumard (2020)'
-  doi: 10.48550/arXiv.2202.08674
-  pdf: https://arxiv.org/pdf/2202.08674
-  arxiv: https://arxiv.org/abs/2202.08674
-  server: arXiv

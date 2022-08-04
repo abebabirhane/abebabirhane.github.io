@@ -1,0 +1,7 @@
+{% assign press = site.data.press | sort:"date" | reverse %}
+
+<ul class="item">
+  {% for p in press %}
+  <li class="item"><a href="{{ p.url }}"><span class="title">{{ p.title }}</span></a>, {{ p.venue }}, {{ p.date }}</li>
+  {% endfor %}
+</ul>

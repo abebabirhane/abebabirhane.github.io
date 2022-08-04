@@ -1,0 +1,61 @@
+- date: 2020-01-24
+  title: 'The battle for ethical AI at the world’s biggest machine-learning conference'
+  url: 'https://www.nature.com/articles/d41586-020-00160-y'
+  venue: Nature
+  
+- date: 2020-07-13
+  title: '80m images used to train AI pulled after researchers find string of racist terms'
+  url: 'https://www.siliconrepublic.com/machines/mit-database-racist-misogynist-discovery-abeba-birhane'
+  venue: Silicon Republic
+  
+- date: 2020-11-19
+  title: 'Who is more racist, sexist and biased: You or your computer'
+  url: 'https://www.irishtimes.com/culture/who-is-more-racist-sexist-and-biased-you-or-your-computer-1.4408555'
+  venue: The Irish Times
+  
+- date: 2020-05-08
+  title: 'How the rise of ‘digital colonialism’ in the age of AI threatens Africa’s prosperity'
+  url: 'https://www.siliconrepublic.com/machines/abeba-birhane-ucd-digital-colonialism'
+  venue: Silicon Republic
+  
+- date: 2020-11-12
+  title: 'Bright sparks of STEM: 19 influencers you need to know about'
+  url: 'https://www.siliconrepublic.com/people/stem-influencers-science-week-2020'
+  venue: Silicon Republic
+  
+- date: 2020-07-14
+  title: "'Contaminated' AI databases are taken down after UCD work"
+  url: 'https://www.independent.ie/business/irish/contaminated-ai-databases-are-taken-down-after-ucd-work-39365275.html'
+  venue: Irish Independent
+  
+- date: 2020-01-01
+  title: 'MIT takes down 80 Million Tiny Images data set due to racist and offensive content'
+  url: 'https://venturebeat.com/2020/07/01/mit-takes-down-80-million-tiny-images-data-set-due-to-racist-and-offensive-content/'
+  venue: Venture Beat
+  
+- date: 2020-01-01
+  title: 'MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs'
+  url: 'https://www.theregister.com/2020/07/01/mit_dataset_removed/'
+  venue: The Register
+  
+- date: 2020-08-27
+  title: 'Getting to the heart of machine learning and complex humans'
+  url: 'https://www.irishtimes.com/news/science/getting-to-the-heart-of-machine-learning-and-complex-humans-1.4330238'
+  venue: The Irish Times
+  
+- date: 2021-02-21
+  title: 'Sexist AI is Even More Sexist Than We Thought'
+  url: https://www.vice.com/en/article/y3gj3v/sexist-ai-is-even-more-sexist-than-we-thought
+  venue: Vice
+
+- date: 2021-03-07
+  title: 'Building AI for the Global South'
+  url: https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/
+  venue: Venture Beat
+
+- date: 2021-02-23
+  title: 'AI researchers detail obstacles to data sharing in Africa'
+  url: https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/
+  venue: Venture Beat
+
+
