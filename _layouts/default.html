@@ -1,54 +1,62 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <head>
+    <title>
+      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}
+    </title>
+    <meta
+      property="og:image"
+      content="https://abebabirhane.github.io/images/Abebaheroc_outline.png"
+    />
+    {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="3; url=/" />
+    {% endif %} {% if page.url == "/art" %}
+    <meta http-equiv="refresh" content="0; url=//abebabirhane.github.io/" />
+    {% endif %}
 
-<head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
-  <meta property="og:image" content="https://abebabirhane.github.io/images/Abebaheroc_outline.png" />
-  {% if page.url == "/404.html" %}
-    <meta http-equiv="refresh" content="3; url=/">
-  {% endif %}
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/images/favicon_io/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/images/favicon_io/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/images/favicon_io/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/images/favicon_io/site.webmanifest" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
 
-  {% if page.url == "/art" %}
-    <meta http-equiv="refresh" content="0; url=//abebabirhane.github.io/">
-  {% endif %}
+    <script>
+      this.top.location !== this.location &&
+        (this.top.location = this.location);
+    </script>
 
-<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_io/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_io/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_io/favicon-16x16.png">
-<link rel="manifest" href="/images/favicon_io/site.webmanifest">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+    {% include meta.html %} {% include css.html %} {% include js.html %}
+  </head>
 
+  <body>
+    <div id="main" role="main">
+      <!-- class="container" -->
 
-  <script>
-  this.top.location !== this.location && (this.top.location = this.location);
-  </script>
+      <h1 id="top"><a href="{{ site.url }}">Abeba Birhane</a></h1>
 
+      {{ content }} {% include footer.html %}
+    </div>
 
-  {% include meta.html %}
-
-  {% include css.html %}
-
-  {% include js.html %}
-
-</head>
-
-<body>
-
-
-
-  <div id="main" role="main"> <!-- class="container" -->
-
-
-    <h1 id="top"><a href="{{ site.url }}">Abeba Birhane</a></h1>
-
-
-    {{ content }}
-
-
-  {% include footer.html %}
-</div>
-
-</body>
-
+    <script>
+      window.replybox = {
+        site: "PqBwMjDYvr",
+      };
+    </script>
+    <script src="https://cdn.getreplybox.com/js/embed.js" defer></script>
+  </body>
 </html>

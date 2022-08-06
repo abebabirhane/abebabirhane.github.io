@@ -2,6 +2,7 @@
 
 body {
   overflow-y: scroll;
+  background: #dcf8ef;
 /*  background-image: url("/images/Conference.jpg");*/
 }
 
@@ -501,9 +502,10 @@ section {
   word-break: break-all;
   /* Non standard for webkit */
   word-break: break-word;
-
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+  height: 50vh;
+  overflow-y: auto;
 }
