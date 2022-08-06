@@ -506,6 +506,30 @@ section {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+  width: 800px;
+  
+}
+
+@media screen and (max-width: 1200px) {
+  .booking {
+    width: auto;
+   
+  }
+
+  
+}
+
+#replybox {
   height: 50vh;
-  overflow-y: auto;
+  overflow-y: scroll;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;
+  width: 95%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+#replybox::-webkit-scrollbar {
+  display: none;
 }
