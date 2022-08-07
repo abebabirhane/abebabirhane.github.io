@@ -3,7 +3,7 @@
   date: 2022-04-22
   type: preprint
   status: unpublished
-  authors: D Leslie, M Katell, M Aitken, J Singh, M Briggs, R Powell, C Rincón, T Chengeta, <b>A Birhane</b>, A Perini, S Jayadeva, A Mazumder
+  authors: Leslie, D., Katell, M., Aitken, M., Singh, J., Briggs, M., Powell, R., Rincón, C., Chengeta, T., <b>Birhane</b>, A., Perini, A., Jayadeva, S., Mazumder, A.
   journal: 
   arxiv: https://arxiv.org/abs/2204.03090
   arxiv_id: 2204.0309
@@ -17,7 +17,7 @@
   date: 2020-08-01
   type: journal
   status: published
-  authors: <b>A Birhane</b>
+  authors: <b>Birhane, A.</b>
   journal: SCRIPTed- A Journal of Law, Technology and Society
   arxiv: 
   arxiv_id: 
@@ -32,7 +32,7 @@
   date: 2021-12-20
   type: journal
   status: published
-  authors: <b>A Birhane</b>
+  authors: <b>Birhane, A.</b>
   journal:  Patterns
   arxiv: 
   arxiv_id: 
@@ -47,21 +47,21 @@
   date: 2021-12-02
   type: preprint
   status: unpublished
-  authors: <b>A Birhane</b>, F Cummins
+  authors: <b>Birhane</b>, A., Cummins, F.
   journal: 
   arxiv: https://arxiv.org/abs/1912.07376
   arxiv_id: 1912.07376
   pdf: https://arxiv.org/pdf/1912.07376
   server: arxiv
-  doi: 
-  data_uri: 
-  url: 
+  doi: 10.1016/j.patter.2021.100205
+  data_uri: 10.1016/j.patter.2021.100205
+  url: 10.1016/j.patter.2021.100205
 
 - title: Auditing saliency cropping algorithms
   date: 2022-01-02
   type: journal
   status: published
-  authors: <b>A Birhane</b>, VU Prabhu, J Whaley
+  authors: <b>Birhane</b>, A., Prabhu, V.U., Whaley, J.
   journal: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 4051-4059
   arxiv: 
   arxiv_id: 
@@ -77,15 +77,15 @@
   date: 2022-06-08
   type: preprint
   status: unpublished
-  authors: <b>A Birhane</b>
+  authors: <b>Birhane</b>, A.
   journal: 
   arxiv: https://arxiv.org/abs/2206.04179
   arxiv_id: 2206.04179
   pdf: https://arxiv.org/pdf/2206.04179
   server: arxiv
-  doi: 
-  data_uri: 
-  url: 
+  doi: 10.48550/arXiv.2206.04179
+  data_uri: 10.48550/arXiv.2206.04179
+  url: 10.48550/arXiv.2206.04179
 
  
 
@@ -94,7 +94,7 @@
   date: 2019-10-12
   type: journal
   status: published
-  authors: E Ruane, <b>A Birhane</b>, A Ventresque
+  authors: Ruane, E., <b>Birhane</b>, A., Ventresque, A.
   journal:  AICS - 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science
   arxiv: 
   arxiv_id: 
@@ -109,21 +109,21 @@
   date: 2022-06-06
   type: preprint
   status: unpublished
-  authors: D Leslie, M Briggs, A Perini, S Jayadeva, C Rincón, N Raval, <b>A Birhane</b>, R Powell, M Katell, M Aitken
+  authors: Leslie, D., Briggs, M., Perini, A., Jayadeva, S., Rincón, C., Raval, N., <b>Birhane</b>, A., Powell, R., Katell, M., Aitken, M.
   journal: 
   arxiv: https://arxiv.org/abs/2204.03100
   arxiv_id: 2204.031
   pdf: https://arxiv.org/pdf/2204.03100
   server: arxiv
-  doi: 
-  data_uri: 
-  url: 
+  doi: 10.5281/zenodo.6408326
+  data_uri: https://arxiv.org/abs/2204.03100
+  url: https://arxiv.org/abs/2204.03100
 
 - title: Debunking Robot Rights Metaphysically, Ethically, and Legally
   date: 2021-08-01
   type: journal
   status: published
-  authors: <b>A Birhane</b>, J van Dijk, F Pasquale
+  authors: <b>Birhane, A.</b>, van Dijk, J., Pasquale, F.
   journal:  Conference2nd Philosophy of Human Technology Relations Conference
   arxiv: 
   arxiv_id: 
@@ -138,7 +138,7 @@
   date:  2017-04-07
   type: journal
   status: published
-  authors: <b>A Birhane</b>
+  authors: <b>Birhane, A.</b>,
   journal:  Aeon
   arxiv: 
   arxiv_id: 
@@ -152,7 +152,7 @@
   date: 2022-04-29
   type: preprint
   status: unpublished
-  authors: L Derczynski, HR Kirk, <b>A Birhane</b>, B Vidgen
+  authors: Derczynski, L., Kirk, H.R., <b>Birhane, A.</b>, Vidgen, B.
   journal: 
   arxiv: https://arxiv.org/abs/2204.14256
   arxiv_id: 2204.14256
@@ -168,7 +168,7 @@
   date: 2016-09-01
   type: journal
   status: published
-  authors: <b>A Birhane</b>, R Fitzpatrick, C Kavanagh, J Roger
+  authors: <b>Birhane, A.</b>, Fitzpatrick, R., Kavanagh, C., Roger, J.
   journal:  AICS 
   arxiv: 
   arxiv_id: 
@@ -184,7 +184,7 @@
   date: 2021-06-14
   type: journal
   status: published
-  authors: <b>A Birhane</b>, VU Prabhu
+  authors: <b>Birhane, A.</b>, Prabhu, V.U.
   journal: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV)
   arxiv: https://arxiv.org/abs/2006.16923
   arxiv_id: 2006.16923
@@ -199,7 +199,7 @@
   date: 2021-10-05
   type: preprint
   status: unpublished
-  authors: <b>A Birhane</b>, VU Prabhu, E Kahembwe
+  authors: <b>Birhane, A.</b>, Prabhu, V.U., Kahembwe, E.
   journal: 
   arxiv: https://arxiv.org/abs/2110.01963
   arxiv_id: 2110.01963
@@ -213,7 +213,7 @@
   date: 2021-03-01
   type: journal
   status: published
-  authors: R Abebe, K Aruleba, <b>A Birhane</b>, S Kingsley
+  authors: Abebe, R., Aruleba, K., <b>Birhane, A.</b>, Kingsley, S.
   journal: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
   arxiv: 
   arxiv_id: 
@@ -228,7 +228,7 @@
   date: 2020-02-07
   type: journal
   status: published
-  authors: <b>A Birhane</b>, J van Dijk
+  authors: <b>Birhane, A.</b>, van Dijk, J. 
   journal: >
     AIES '20: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
   arxiv: 
@@ -244,7 +244,7 @@
   date: 2018-03-20
   type: journal
   status: published
-  authors: <b>A Birhane</b>, S Grayson
+  authors: <b>Birhane, A.</b>, Grayson, S.
   journal: Mary Mulvihill Award
   arxiv: 
   arxiv_id: 
@@ -258,7 +258,7 @@
   date: 2022-06-20
   type: journal
   status: published
-  authors: L Weidinger, J Mellor, M Rauh, C Griffin, J Uesato, PS Huang, M Cheng, M Glaese, B Balle, A Kasirzadeh, Z Kenton, S Brown, W Hawkins, T Stepleton, C Biles,<b> A Birhane</b>, J Haas, L Rimell, LA Hendricks, W Isaac, S Legassick, G Irving, I Gabriel
+  authors: Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P.S., Cheng, M., Glaese, M., Balle, B., Kasirzadeh, A., Kenton, Z., Brown, S., Hawkins, W., Stepleton, T., Biles, C., <b>Birhane, A.</b>, Haas, J., Rimell, L., Hendricks, L.A., Isaac, W., Legassick, S., Irving, G., Gabriel, I.
   journal: >
      FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency
   arxiv: 
@@ -273,7 +273,7 @@
   date: 2022-06-21
   type: journal
   status: published
-  authors: <b>A Birhane</b>, E Ruane, T Laurent, MS. Brown, J Flowers, A Ventresque, CL Dancy  
+  authors: <b>Birhane, A.</b>, Ruane, E., Laurent, T., Brown, M.S., Flowers, J., Ventresque, A,. Dancy, C.L.  
   journal: >
      FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency
   arxiv: 
@@ -289,7 +289,7 @@
   date: 2022-05-18
   type: preprint
   status: unpublished
-  authors: <b>A Birhane</b>, DJT Sumpter
+  authors: <b>Birhane, A.</b>, Sumpter, D.J.T.
   journal: 
   arxiv: https://arxiv.org/abs/2205.08922
   arxiv_id: 2205.08922
@@ -303,7 +303,7 @@
   date: 2021-06-11
   type: journal
   status: published
-  authors: <b>A Birhane</b>
+  authors: <b>Birhane, A.</b>,
   journal:  Artificial Life
   arxiv: 
   arxiv_id: 
@@ -317,7 +317,7 @@
   date: 2022-06-21
   type: journal
   status: published
-  authors: <b>A Birhane</b>, P Kalluri, D Card, W Agnew, R Dotan, M Bao
+  authors: <b>Birhane, A.</b>, Kalluri, P., Card, D., Agnew, W., Dotan, R., Bao, M.
   journal: 2022 ACM Conference on Fairness, Accountability, and Transparency
   arxiv: https://arxiv.org/abs/2106.15590
   arxiv_id: 2106.1559
@@ -331,7 +331,7 @@
   date: 2021-02-09
   type: preprint
   status: unpublished
-  authors: <b>A Birhane</b>, O Guest
+  authors: <b>Birhane, A.</b>, Guest, O.
   journal: Women, Gender & Research
   arxiv: https://arxiv.org/abs/2009.14258
   arxiv_id: 2009.14258
@@ -377,7 +377,7 @@
 - date: 2019-08-20
   type: misc
   status: published
-  authors: Newman, S., <b>Birhane, A.,</b> Zajko, M., Osoba, O., Prunkl, C., Lima, G., Bowen, J., Sutton, R., & Adams, C.
+  authors: Newman, S., <b>Birhane, A.</b>, Zajko, M., Osoba, O., Prunkl, C., Lima, G., Bowen, J., Sutton, R., & Adams, C.
   title: "AI and Agency"
   journal: UCLA 
   url: https://escholarship.org/uc/item/8q15786s#main

@@ -280,6 +280,21 @@ footer ul {
   padding-block: 0.5em;
 }
 
+p.basic-info1:before {
+  content: 'Hi!'; 
+  float: left;
+  font-size: 250%;
+  margin: 0 5px 0px 0;
+}
+
+p.basic-info2:before {
+  content: 'I'; 
+  float: left;
+  font-size: 250%;
+  margin: 0 5px 0px 0;
+}
+
+
 /*
 
 #the_main {
