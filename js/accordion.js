@@ -4,7 +4,7 @@
 
 $(function() {
   // Initialise the accordion:
-  $('#accordion').accordion({
+  $('.the_accordion').accordion({
     heightStyle: 'content',
     collapsible: true,
     active: false,
