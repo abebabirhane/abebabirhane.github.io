@@ -1,10 +1,7 @@
 
-
-
-
 $(function() {
   // Initialise the accordion:
-  $('.the_accordion').accordion({
+  $('#accordion').accordion({
     heightStyle: 'content',
     collapsible: true,
     active: false,
@@ -13,7 +10,8 @@ $(function() {
   // Get the #hash in the URL:
   var hash = window.location.hash;
   hash = hash.slice(1);
-  console.log(hash);
+  console.log('boop');
+  // console.log(hash);
   var active = false;
   // Activate appropriate accordion item and scroll to it:
   if (hash === 'talks') {
@@ -22,15 +20,15 @@ $(function() {
 
   } else if (hash.slice(0,3) === 'pub') {
     active = 1;
-  } else if (hash === 'code') {
+  } else if (hash === 'pub2') {
     active = 2;
-  } else if (hash === 'cv' | hash === 'curriculum_vitae' | hash === 'vitae') {
-    active = 3;
-  }
+  } 
+
+
   if (hash) {
-    $('#accordion').accordion('option', 'active', active);
+    $('#the_accordion').accordion('option', 'active', active);
     $('html,body').animate({
-      scrollTop: $('#accordion').offset().top
+      scrollTop: $('#the_accordion').offset().top
     });
   }
 

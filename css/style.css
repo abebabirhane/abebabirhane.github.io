@@ -144,19 +144,7 @@ ul.item {
   list-style-type: square;
 }
 
-#accordion {
-  cursor: pointer;
-  padding-bottom: 0.3rem;
-  padding-top: 0.3rem;
-  display: flex;
-  flex-direction: row;
-  /*align-items: center; */
-  justify-content: center;
-  flex:1;
-  background: lightgrey;
-  color:#ad255b;
-  border-radius:200px;
-}
+
 
 .panel {
   margin-bottom: 0;
@@ -166,8 +154,8 @@ ul.item {
 
 .panel-content {
   margin-left: 1rem;
-  height: auto;
-  --a-link-color: #000;
+ /* height: auto;*/
+  
   
 
   
@@ -354,10 +342,6 @@ p.basic-info2:before {
   #nnav {
     display: none;
 }
-#accordion{
-  flex-direction: column;
-}
-
 }
 
 @media screen and (max-width: 1200px) {
@@ -367,27 +351,9 @@ p.basic-info2:before {
 }
 
 
-@media screen and (max-width: 1200px) {
-  
-    .answer{
-    padding-top: 1rem !important;
-    padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
 
-  
-}
-   
-  }
 
-@media screen and (max-width: 1200px) {
-  #accordion {
-    padding-left: 1em;
-    padding-right: 1em
-   
-  }
 
-  
-}
 
 
 /**/
@@ -396,85 +362,45 @@ section {
   width: 100%;
   height: auto;
   background-color: rgb(0 0 0 / 0%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .the_container{
-  width: 100%;
   max-width: 80rem;
   margin: 2rem auto;
-  padding: 0 1.5rem;
+  padding: 0 0.5rem;
 }
+
 
 .accordion-item{
   background-color: #ad255b36;
   border-radius: .4rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1rem;
+  color:#ad255b;
 }
 
 .accordion-item hr{
   border: 1px solid rgba(255, 255, 255, 0.5);
 }
 
-.accordion-link{
-  font-size: 1.6rem;
-  color: rgba(255,255,255,.8);
-  text-decoration: none;
-  background-color: #fafafa;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1rem 0;
-}
-
-.accordion-link h3{
-  font-weight:500;
-  font-size: 20px;
-}
-
-.accordion-link i{
-  color: #e7d5ff;
-  padding: .5rem;
-  
-}
-
-.accordion-link ul{
-  display:flex;
-  align-items: flex-end;
-  list-style-type: none;
-  margin-left: 25px;
-}
-
-.accordion-link li{
-  font-size: 10px;
-  color: rgba(255, 255, 255, 0.4);
-  padding: 0 0 1px 5px;
-}
-
-.accordion-link div{
-  display: flex;
-}
-
-.accordion-link .ion-md-arrow-down{
-  display: none;
+.answer:link{
+  color: #ad255b;
 }
 
 .answer{
-  max-height: 0;
+/*  max-height: 0;
   overflow: hidden;
   position: relative;
-  background-color: #000;
   transition: max-height 650ms;
-  background-image: linear-gradient(315deg, #fee2f8 0%, #dcf8ef 74%);
   overflow-y: auto;
+  */
+ 
+  
+  background-image: linear-gradient(315deg, #fee2f8 0%, #dcf8ef 74%);
+  transition: max-height 650ms;
   padding-top: 1rem;
   padding-left: 5rem;
   padding-right: 5rem;
-  -ms-word-break: break-all;
-  word-break: break-all;
   /* Non standard for webkit */
   word-break: break-word;
 
@@ -484,28 +410,32 @@ section {
   hyphens: auto;
 }
 
+@media screen and (max-width: 1200px) {
+  .answer {
+    padding-left: 0rem;
+  padding-right: 1rem;
+   
+  }
 
+  .panel-content {
+    margin-left: 1rem;
+    margin-right: 1rem
+   
+  }
 
+  
+}
 
 
 .answer p{
   color: #fff;
   font-size: 15px;
   padding: 2rem;
-  
 }
 
-.accordion-item:target .answer{
-  max-height: 20rem;
-}
 
-.accordion-item:target .accordion-link .ion-md-arrow-forward{
-  display: none
-}
 
-.accordion-item:target .accordion-link .ion-md-arrow-down{
-  display: block;
-}
+
 
 .calendly-inline-widget{
   padding:1.2em;

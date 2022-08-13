@@ -10,32 +10,20 @@ layout: default
 </div>
 
 <section>
-<div class="the_container">
-<!--<h1 style="text-align: center; font-weight:400"> Publications </h1>-->
-  <div class="the_accordion">
-    <div class="accordion-item" id="question1">
-      <a class="accordion-link" href="#question1">
-        <div class="flex">
-          <h3>Publications</h3>
+  <div class="the_container" id="accordion"> 
 
+        <h1 id="pubs" class="accordion-item panel">Publications</h1>
+        <div class="answer panel-content">
+          {% include loop_publications.html %}
         </div>
-        <i class="icon ion-md-arrow-forward"></i>
-        <i class="icon ion-md-arrow-down"></i>
-      </a>
-      <div class="answer">
-       {% include loop_publications.html %}
-      </div>
-      <hr>
-  </div>
- 
+        <hr>
   </div>
 </section>
 <section>
-<div class="the_container">
-<h1 style="text-align: center; font-weight:400">  Let's stay in touch </h1>
-{% include booking.html %}
-</div>
+  <div class="the_container">
+    <h1 style="text-align: center; font-weight:400">  Let's stay in touch </h1>
+    {% include booking.html %}
+  </div>
 </section>
-</div>
 
 
