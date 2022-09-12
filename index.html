@@ -3,27 +3,19 @@ layout: default
 ---
 
 <div class="content">
-
-  <div id="description">
-    {% include me.html %}
-  </div>
+  <div id="description">{% include me.html %}</div>
 </div>
 
 <section>
-  <div class="the_container" id="accordion"> 
-
-        <h1 id="pubs" class="accordion-item panel">Publications</h1>
-        <div class="answer panel-content">
-          {% include loop_publications.html %}
-        </div>
-        <hr>
+  <div class="the_container" id="accordion">
+    <h1 id="pubs" class="accordion-item panel">Publications</h1>
+    <div class="answer panel-content">{% include loop_publications.html %}</div>
+    <hr />
   </div>
 </section>
 <section>
   <div class="the_container">
-    <h1 style="text-align: center; font-weight:400">  Let's stay in touch </h1>
+    <h1 style="text-align: center; font-weight: 400">Let's stay in touch</h1>
     {% include booking.html %}
   </div>
 </section>
-
-

@@ -23,7 +23,7 @@
   arxiv_id: 
   pdf: https://pdfs.semanticscholar.org/6043/1fe2d7b410ffd80713d99c0b10900cc85f3d.pdf
   server: 
-  doi: 10.2966/scrip.170220.389,
+  doi: 10.2966/scrip.170220.389
   data_uri: https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/scripted17&section=21
   url: https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/scripted17&section=21
  
@@ -204,7 +204,7 @@
   arxiv_id: 
   pdf: https://arxiv.org/pdf/2103.01168
   server: 
-  doi: https://dl.acm.org/doi/abs/10.1145/3442188.3445897
+  doi: 10.1145/3442188.3445897
   data_uri: 
   url: 
 
@@ -220,7 +220,7 @@
   arxiv_id: 
   pdf: https://dl.acm.org/doi/pdf/10.1145/3375627.3375855
   server: 
-  doi: https://dl.acm.org/doi/abs/10.1145/3375627.3375855
+  doi: 10.1145/3375627.3375855
   data_uri: 
   url: 
 
@@ -250,7 +250,7 @@
   arxiv_id: 
   pdf: https://dl.acm.org/doi/pdf/10.1145/3531146.3533088
   server: 
-  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533088
+  doi: 10.1145/3531146.3533088
   data_uri: 
   url: 
 
@@ -265,7 +265,7 @@
   arxiv_id: 
   pdf: https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533157
   server: 
-  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533157
+  doi: 10.1145/3531146.3533157
   data_uri: 
   url: 
 
@@ -294,7 +294,7 @@
   arxiv_id: 
   pdf: https://csl.ucd.ie/wp-content/uploads/2022/07/Automating_ALife.pdf
   server: 
-  doi: https://doi.org/10.1162/artl_a_00336
+  doi: 10.1162/artl_a_00336
   data_uri: https://direct.mit.edu/artl/article-abstract/27/1/44/101872
   url: https://direct.mit.edu/artl/article-abstract/27/1/44/101872
 
@@ -308,7 +308,7 @@
   arxiv_id: 2106.1559
   pdf: https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533083
   server: 
-  doi: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
+  doi: 10.1145/3531146.3533083
   data_uri: 
   url: 
   
@@ -322,7 +322,7 @@
   arxiv_id: 2009.14258
   pdf: https://arxiv.org/pdf/2009.14258
   server: arxiv
-  doi: https://tidsskrift.dk/KKF/article/view/124899
+  doi: 10.7146/kkf.v29i2.124899
   data_uri: https://tidsskrift.dk/KKF/article/view/124899
   url: https://tidsskrift.dk/KKF/article/view/124899
 
