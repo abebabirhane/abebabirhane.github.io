@@ -6,6 +6,9 @@ $(function () {
     active: false,
     header: "h1",
   });
+
+ 
+  /*
   // Get the #hash in the URL:
   var hash = window.location.hash;
   hash = hash.slice(1);
@@ -28,4 +31,5 @@ $(function () {
       scrollTop: $("#the_accordion").offset().top,
     });
   }
+  */
 });

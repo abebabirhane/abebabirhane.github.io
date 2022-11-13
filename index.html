@@ -7,11 +7,16 @@ layout: default
 </div>
 
 <section>
-  <div class="the_container" id="accordion">
-    <h1 id="pubs" class="accordion-item panel">Publications</h1>
-    <div class="answer panel-content">{% include loop_publications.html %}</div>
+    <div class="the_container" id="accordion">
+      <h1 id="pubs" class="accordion-item panel">Publications</h1>
+      <div class="answer panel-content">{% include loop_publications.html %}</div>
+      <hr />
+    </div>
+    <div class="the_container" id="accordion2" id="gallery">
+    <h1 class="accordion-item panel">Gallery</h1>
+    <div class="answer panel-content">{% include image-gallery.html folder="/images/gallery" %}</div>
     <hr />
-  </div>
+    </div>
 </section>
 <section>
   <div class="the_container">
