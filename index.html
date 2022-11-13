@@ -6,13 +6,13 @@ layout: default
   <div id="description">{% include me.html %}</div>
 </div>
 
-<section>
-    <div class="the_container" id="accordion">
+<section id="accordion">
+    <div class="the_container" >
       <h1 id="pubs" class="accordion-item panel">Publications</h1>
       <div class="answer panel-content">{% include loop_publications.html %}</div>
       <hr />
     </div>
-    <div class="the_container" id="accordion2" id="gallery">
+    <div class="the_container" id="gallery">
     <h1 class="accordion-item panel">Gallery</h1>
     <div class="answer panel-content">{% include image-gallery.html folder="/images/gallery" %}</div>
     <hr />
