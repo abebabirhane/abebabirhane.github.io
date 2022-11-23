@@ -11,13 +11,14 @@
   caption: 'Recipient of Distinguished Paper Award at FAccT 2022. "The Values Encoded in Machine Learning Research"'
   path: 'images/gallery/FAccT 2022 - Recipient of Distinguished Paper Award at FAccT 2022.jpg'
   paper_url: 'https://dl.acm.org/doi/abs/10.1145/3531146.3533083'
-  thesis_url: 'https://arxiv.org/abs/2206.04179'
+  
   
 - date: 2022-09-07
   title: 'LERO 2022'
   url: 'https://lero.ie/news-and-events/news/researchers-four-universities-awarded-prestigious-lero-director%E2%80%99s-prizes'
   caption: 'Recepient of Lero Director’s Prize for PhD Contribution'
   path: 'images/gallery/LERO 2022 -  Recepient of Lero Director’s Prize for PhD Contribution.jpg'
+  thesis_url: 'https://arxiv.org/abs/2206.04179'
   
   
 - date: 2022-10-22
