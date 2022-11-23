@@ -19,8 +19,29 @@
       <br>
       <span><a href="{{ file.url }}" title="{{ file.title }}"> {{ file.title }}</a></span>
       <br>
-      <span><a href="{{ file.paper_url }}" title="{{ file.title }}"> <em>{{ file.caption }}</em></a></span>
+      <span>
+      {% if file.paper_url %}
+        <span><a href="{{ file.paper_url }}" title="{{ file.title }}"> <em>{{ file.caption }}</em></a></span>
+      {% else %}
+        <span><em>{{ file.caption }}</em></span>
+      {% endif %}
+    </span>
+    <br>
+      <span>
+        {% if file.thesis_url %}
+          <span><a href="{{ file.thesis_url }}" title="{{ file.title }}"> <strong><em>Thesis</em></strong></a></span>
+        {% else %}
+        {% endif %}
+      </span>
     </div>
 
   {% endfor %}
 </div>
+
+{% if page.title %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="twitter:title" content="{{ page.title }}" />
+{% else %}
+  <meta property="og:title" content="{{ page.name }}" />
+  <meta property="twitter:title" content="{{ page.name }}" />
+{% endif %}
