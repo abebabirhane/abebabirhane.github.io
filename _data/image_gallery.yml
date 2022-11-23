@@ -1,14 +1,16 @@
 - date: 2020-07-15
   title: 'AI Innovation Award 2020'
-  url: https://venturebeat.com/business/announcing-the-ai-innovation-awards-winners-at-transform-2020/'
+  url: 'https://venturebeat.com/business/announcing-the-ai-innovation-awards-winners-at-transform-2020/'
   caption: 'VentureBeat Computer Vision Innovation Award for the paper “Large image datasets: A pyrrhic win for computer vision?'
   path: 'images/gallery/AI Innovation Award 2020 - VentureBeat Computer Vision Innovation Award for the paper “Large image datasets A pyrrhic win for compu....jpg'
+  paper_url: 'https://ieeexplore.ieee.org/abstract/document/9423393'
  
 - date: 2022-06-02
   title: 'FAccT 2022'
   url: 'https://facctconference.org/2022/acceptedpapers.html'
-  caption: "Recipient of Distinguished Paper Award at FAccT 2022"
+  caption: 'Recipient of Distinguished Paper Award at FAccT 2022. "The Values Encoded in Machine Learning Research"'
   path: 'images/gallery/FAccT 2022 - Recipient of Distinguished Paper Award at FAccT 2022.jpg'
+  paper_url: 'https://dl.acm.org/doi/abs/10.1145/3531146.3533083'
   
 - date: 2022-09-07
   title: 'LERO 2022'
