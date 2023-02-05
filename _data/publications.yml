@@ -14,6 +14,83 @@
   data_uri: Data URI
   url: URL
 
+    The Limits of Fairness
+  date: 2022-07-26
+  type: 
+  status: 
+  authors: <b>Birhane, A.</b>
+  journal: >
+    AIES '22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society, July 2022, Pages 2
+  arxiv: 
+  arxiv_id: 
+  pdf: 
+  server: 
+  doi: 10.1145/3514094.3539568
+  data_uri: https://dl.acm.org/doi/abs/10.1145/3514094.3539568
+  url: https://dl.acm.org/doi/abs/10.1145/3514094.3539568
+
+
+- title: >
+    Power to the People? Opportunities and Challenges for Participatory AI
+  date: 2022-10-17
+  type: published
+  status: 
+  authors: <b>Birhane, A.</b>, Isaac, W., Prabhakaran, V., Díaz, M., Elish, M., Gabriel, I., Mohamed, S.
+  journal: >
+    EAAMO '22: Equity and Access in Algorithms, Mechanisms, and Optimization. Article No.: 6, Pages 1–8
+  arxiv: 
+  arxiv_id: 
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3551624.3555290
+  server: 
+  doi: 10.1145/3551624.3555290
+  data_uri: https://dl.acm.org/doi/10.1145/3551624.3555290
+  url: https://dl.acm.org/doi/10.1145/3551624.3555290
+
+- title: >
+    The unseen Black faces of AI algorithms
+  date: 2022-10-20
+  type: 
+  status: 
+  authors: <b>Birhane, A.</b>
+  journal: Nature
+  arxiv: 
+  arxiv_id: 
+  pdf: https://www.nature.com/articles/d41586-022-03050-7.pdf
+  server: 
+  doi: 
+  data_uri: https://www.nature.com/articles/d41586-022-03050-7
+  url: https://www.nature.com/articles/d41586-022-03050-7
+
+- title: >
+    The Lost Art of Mathematical Modelling
+  date: 2023-01-19
+  type: preprint
+  status: unpublished
+  authors: Gyllingberg, L., <b>Birhane, A.</b>, Sumpter, D.
+  journal: 
+  arxiv: https://arxiv.org/abs/2301.08559
+  arxiv_id: 2301.08559
+  pdf: https://arxiv.org/pdf/2301.08559.pdf
+  server: arxiv
+  doi: 10.48550/arXiv.2301.08559
+  data_uri: 
+  url: 
+
+- title: >
+    Beyond Single-Mindedness: A Figure-Ground Reversal for the Cognitive Sciences
+  date: 2023-01-10
+  type: 
+  status: published
+  authors: Dingemanse, M., Liesenfeld, A., Rasenberg, M., Albert, S., Ameka, F., <b>Birhane, A.</b>, Bolis, D., Cassell, J., Clift, R., Cuffari, E., Jaegher, H., Novaes, C., Enfield, N., Fusaroli, R., Gregoromichelaki, E., Hutchins, E., Konvalinka, I., Milton, D., Rączaszek-Leonardi, J., Reddy, V., Rossano, F., Schlangen, D., Seibt, J., Stokoe, E., Suchman, L., Vesper, C., Wheatley, T., Wiltschko, M.
+  journal: Cognitive Science, Volume 47, Issue 1, e13230
+  arxiv: 
+  arxiv_id: 
+  pdf: 
+  server: 
+  doi: 10.1111/cogs.13230
+  data_uri: https://onlinelibrary.wiley.com/doi/10.1111/cogs.13230
+  url: https://onlinelibrary.wiley.com/doi/10.1111/cogs.13230
+  
 - title: >
     Advancing Data Justice Research and Practice: An Integrated Literature Review
   date: 2022-04-22
