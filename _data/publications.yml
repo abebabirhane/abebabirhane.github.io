@@ -1,9 +1,25 @@
 - title: >
+    11
+  date: 2023-02-02
+  type: 
+  status: Unpublished
+  authors: Authors
+  journal: >
+    Journal
+  arxiv: Arxiv link
+  arxiv_id: Arxiv id
+  pdf: PDF Link
+  server: Server
+  doi: DOI
+  data_uri: Data URI
+  url: URL
+
+- title: >
     Advancing Data Justice Research and Practice: An Integrated Literature Review
   date: 2022-04-22
   type: preprint
   status: unpublished
-  authors: Leslie, D., Katell, M., Aitken, M., Singh, J., Briggs, M., Powell, R., Rincón, C., Chengeta, T., <b>Birhane</b>, A., Perini, A., Jayadeva, S., Mazumder, A.
+  authors: Leslie, D., Katell, M., Aitken, M., Singh, J., Briggs, M., Powell, R., RincC3n, C., Chengeta, T., <b>Birhane</b>, A., Perini, A., Jayadeva, S., Mazumder, A.
   journal: 
   arxiv: https://arxiv.org/abs/2204.03090
   arxiv_id: 2204.0309
@@ -94,7 +110,7 @@
   date: 2022-06-06
   type: preprint
   status: unpublished
-  authors: Leslie, D., Briggs, M., Perini, A., Jayadeva, S., Rincón, C., Raval, N., <b>Birhane</b>, A., Powell, R., Katell, M., Aitken, M.
+  authors: Leslie, D., Briggs, M., Perini, A., Jayadeva, S., RincC3n, C., Raval, N., <b>Birhane</b>, A., Powell, R., Katell, M., Aitken, M.
   journal: 
   arxiv: https://arxiv.org/abs/2204.03100
   arxiv_id: 2204.031
