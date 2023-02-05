@@ -1,4 +1,20 @@
 - title: >
+    11
+  date: 2023-02-02
+  type: 
+  status: Unpublished
+  authors: Authors, A.
+  journal: >
+    Journal
+  arxiv: Arxiv link
+  arxiv_id: Arxiv id
+  pdf: PDF Link
+  server: Server
+  doi: DOI
+  data_uri: Data URI
+  url: URL
+
+- title: >
     The Limits of Fairness
   date: 2022-07-26
   type: 
